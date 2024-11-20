@@ -21,7 +21,7 @@ const Create = () => {
 
     try {
       // Insert blog post into Supabase
-      const { data, error } = await supabase
+      const { error } = await supabase
         .from('blogs') // Ensure 'blogs' is your correct table name in Supabase
         .insert([blog]);
 
