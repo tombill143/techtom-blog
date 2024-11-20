@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+REACT_APP_SUPABASE_URL=https://jfjoidnbttulojznfujf.supabase.co
+REACT_APP_SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Impmam9pZG5idHR1bG9qem5mdWpmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzIwNDE3MzQsImV4cCI6MjA0NzYxNzczNH0.kTMIlFruZd1XQ9nEgtuj6JkRlePyO5VP0n_IvWuD1KM
+

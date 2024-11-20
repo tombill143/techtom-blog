@@ -5,6 +5,7 @@
   margin: 0;
   font-family: "Quicksand";
   color: #333;
+  margin-top: 1em;
 }
 .navbar {
   padding: 20px;
@@ -136,5 +137,12 @@
   display: block; /* Forces a line break before the strong text */
   margin-top: 20px; /* Adjust space above the strong element */
 }
+
+p {
+  line-height: 1.8; /* Adjust this value for better spacing */
+  margin-bottom: 1em; /* Optional: adds space between paragraphs */
+}
+
+
 
 
